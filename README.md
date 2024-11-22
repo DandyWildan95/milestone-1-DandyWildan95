@@ -100,3 +100,4 @@ Adding animations and final adjustments ensures responsiveness across devices.
 ### Deployment
 
 this is a link for my website https://revou-fsse-oct24.github.io/milestone-1-DandyWildan95/
+and this is a link for deployment![image](https://github.com/user-attachments/assets/3d84310b-5da6-47d5-b41c-3b1456ce1600)
